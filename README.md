@@ -1,8 +1,5 @@
 # 🏨 Hotel Booking Outcome Classification using Machine Learning  
-**Author:** Nitish Raj Vinnakota  
-🔗 [LinkedIn](https://linkedin.com/in/vnr-nitish)  
-📧 nvinnako2@gitam.in
-
+**Author:** Nitish Raj Vinnakota | 🔗 [LinkedIn](https://linkedin.com/in/vnr-nitish)  
 ---
 
 ## 🔍 Project Overview
